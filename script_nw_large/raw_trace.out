@@ -1,0 +1,25 @@
+#---------------------------------------------------------
+# HMC-SIM VERSION : 3.0
+# DATE: 13/04/2019 16:57
+#---------------------------------------------------------
+# HMC_NUM_DEVICES       = 1
+# HMC_NUM_LINKS         = 4
+# HMC_NUM_QUADS         = 4
+# HMC_NUM_VAULTS        = 32
+# HMC_NUM_BANKS         = 16
+# HMC_NUM_DRAMS         = 20
+# HMC_CAPACITY_GB       = 4
+# HMC_VAULT_QUEUE_DEPTH = 64
+# HMC_XBAR_QUEUE_DEPTH  = 128
+#---------------------------------------------------------
+# LINK_PHY           = 0.000000
+# LINK_LOCAL_ROUTE   = 0.000000
+# LINK_REMOTE_ROUTE  = 0.000000
+# XBAR_RQST_SLOT     = 0.000000
+# XBAR_RSP_SLOT      = 0.000000
+# XBAR_ROUTE_EXTERN  = 0.000000
+# VAULT_RQST_SLOT    = 0.000000
+# VAULT_RSP_SLOT     = 0.000000
+# VAULT_CTRL         = 0.000000
+# ROW_ACCESS         = 0.000000
+#---------------------------------------------------------
